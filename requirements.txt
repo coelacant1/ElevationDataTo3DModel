@@ -1,0 +1,8 @@
+numpy
+numpy-stl
+pandas
+pyvista
+rasterio
+scipy
+trimesh
+vtk
